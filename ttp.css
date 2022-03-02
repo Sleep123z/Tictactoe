@@ -1,0 +1,39 @@
+#canvas{
+margin-top: 40px;
+background-color: rgb(110, 73, 73);
+border-style:ridge;
+border-width:15px;
+border-color:burlywood;
+}
+
+#x{
+float: left;
+margin-left: 500;
+margin-top: 200;
+}
+
+#o{
+float: right;
+margin-right: 510;
+margin-top: 200;
+}
+
+#gamelink{
+margin-top:200;
+color:wheat;
+}
+
+#lx{
+    color:darkred;
+}
+
+#lo{
+    color:blue;
+}
+
+ 
+#b{
+    float:right;
+    margin-right: 40px;
+    margin-top: 200px;
+}
